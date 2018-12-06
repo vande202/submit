@@ -1,0 +1,18 @@
+Assumeing a windows machine
+Steps on your machine:
+	1. Make sure pip is on the execution variable
+	2. Unzip the file called deploy.zip
+	3. Run the bat file called run.bat within the deploy folder
+	4. Once requirements have been installed the flask app will run on your local host
+	5. Make sure you are using one of the following browsers: edge, chrome, opera, firefox
+	6. Refreshing the page may be nessisary to load the application.
+	
+To access online
+	1. go to link https://morning-oasis-91404.herokuapp.com/ with any browser but internet explorer
+	2. wait untill the dynamo wakes up
+	3. refresh if you encounter an error
+
+testing:
+RS(303-319)
+RS(203-214)
+RS(103-119)
